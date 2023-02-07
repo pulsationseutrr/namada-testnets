@@ -1,0 +1,8 @@
+[validator.Pulsar07]
+consensus_public_key = "009c695f792940787684c472f08d67f92c670526ddf0ffcaef60f753fb2bd23123"
+account_public_key = "0056911aae6a04084eb315c2836c2b513e1eb733674add875f01171e9459c39fad"
+protocol_public_key = "0078641e91e5f41961fabefddab82602d85640d5a63a20481b78676de528f211cd"
+dkg_public_key = "60000000a3d55aa639d6d5f5d5d4e277868dff592467fc6099f61a11d10541d0c50cd60312dd0590ffc4bf61d5121de391d3b>commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.47.163.148:26656"
+tendermint_node_key = "0012c06bde41af3253af523e39923e253b18a61685263ce407182a14ff6fb3172e"
